@@ -9,7 +9,7 @@ import java.util.List;
 
 public class ResultsPO extends BaseActions {
 
-    private By resultsNumber = By.cssSelector(".css-101o6u0");
+    private By resultsNumber = By.cssSelector("span[class=css-101o6u0]");
     private By companyName = By.cssSelector("img[data-testid='tripDetails-carrier-logo']");
     private By originTime = By.cssSelector("div[data-testid*='info-departureTime']");
     private By travelDuration = By.cssSelector("p[data-testid*='info-duration']");
