@@ -40,7 +40,6 @@ public class TravelBO {
 
     /**
      * Search for Flight Ath - Thes
-     * with return
      * for one person
      */
     public void searchFlight() throws InterruptedException {
@@ -69,7 +68,6 @@ public class TravelBO {
 
     /**
      * Search for Flight Ath - London
-     * with return
      * for one person
      */
     public void searchFlightAndApplyFilters() throws InterruptedException {
