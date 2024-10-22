@@ -7,11 +7,8 @@ import dtos.Travel;
 import enums.Sliders;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class TravelBO {
     private HomePagePO homePagePO;
